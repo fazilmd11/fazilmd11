@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like the taste of chyawanprash
 -->
+- 🌱 I’m currently learning Mobile App Development(Flutter)
+- 📫 How to reach me: fazil11301@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like the taste of chyawanprash
