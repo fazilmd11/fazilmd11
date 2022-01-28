@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like the taste of chyawanprash
 
-[![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilmd11)](https://github.com/fazilmd11/github-readme-stats)
+<!-- [![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilmd11)](https://github.com/fazilmd11/github-readme-stats) -->
+![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilmd11&show_icons=true&theme=tokyonight)
