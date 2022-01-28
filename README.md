@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Interests: Hip-hop, Cinema, Gaming.
 -->
 - 🌱 I’m currently learning Mobile App Development(Flutter), Full-Stack Development(MERN)
+- 💭 I'm looking forward to learning Blockchain, AI/ML
 - 📫 How to reach me: fazil11301@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Hip-hop, Cinema, Gaming
