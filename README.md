@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: fazil11301@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like the taste of chyawanprash
+- ⚡ Interests: Hip-hop, Cinema, Gaming.
 -->
 - 🌱 I’m currently learning Mobile App Development(Flutter)
 - 📫 How to reach me: fazil11301@gmail.com
