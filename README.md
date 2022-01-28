@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Hip-hop, Cinema, Gaming.
 -->
-- 🌱 I’m currently learning Mobile App Development(Flutter), MERN Full-Stack Development(MERN)
+- 🌱 I’m currently learning Mobile App Development(Flutter), Full-Stack Development(MERN)
 - 📫 How to reach me: fazil11301@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Hip-hop, Cinema, Gaming
