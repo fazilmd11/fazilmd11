@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Mobile App Development(Flutter)
+- 🌱 I’m currently learning Mobile App Development(Flutter), MERN Full-Stack Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Hip-hop, Cinema, Gaming.
 -->
-- 🌱 I’m currently learning Mobile App Development(Flutter)
+- 🌱 I’m currently learning Mobile App Development(Flutter), MERN Full-Stack Development
 - 📫 How to reach me: fazil11301@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like the taste of chyawanprash
+- ⚡ Interests: Hip-hop, Cinema, Gaming
 
 <!-- [![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilmd11)](https://github.com/fazilmd11/github-readme-stats) -->
 ![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilmd11&show_icons=true&theme=tokyonight)
